@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">My first app</string>
+    <string name="app_name">How much time is left</string>
+    <string name="EnterYear">Enter Year</string>
+    <string name="EnterHour">Enter Hour</string>
+    <string name="EnterMinute">Enter Minute</string>
+
+    <string name="leftedYear">Lefted Years</string>
+    <string name="leftedHour">Lefted Hours</string>
+    <string name="leftedMinute">Lefted Minutes</string>
+
 </resources>
